@@ -1,0 +1,242 @@
+
+/* === Estilos Personalizados  === */
+a.home-banzai { 
+    color: #707070;
+}
+
+img.menu-icones {
+    height: 27px;
+    padding: 4px 12px;
+}
+
+img.logo-banzai-big {
+    padding: 25px;
+    margin-left: 90px;
+}
+
+p.central-atm {
+    color: #727B7A;
+    text-transform: uppercase;
+}
+
+h4.numero-phone {
+    color: red;
+    letter-spacing: .14em;
+    margin-top: -15px;
+}
+
+div.row.img-banner {
+    background-image: url("../img/banner-honda-civic-10.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+}
+
+img.selo-quatro-rodas {
+    display: block;
+    margin-top: 245px;
+    margin-left: 149px;
+    margin-bottom: 30px;
+}
+
+/* Formulário Main Fixo */
+.formulario-fixo {
+    position: fixed;
+    padding: 20px;
+    margin-top: 100px;
+    margin-left: 735px;
+    width: 300px;
+    background: #EEEEEE 0% 0% no-repeat padding-box;
+    box-shadow: 0px 0px 5px #00000029;
+    border-radius: 4px;
+    z-index: 12;
+}
+
+p.subtitle-form {
+    color: black;
+    text-align: left;
+    margin-left: 45px;
+}
+
+h5.title-form {
+    color: red;
+    font-size: 1.45em;
+    text-align: left;
+    letter-spacing: .055em;
+    margin-top: -20px;
+    margin-left: 45px;
+    text-transform: uppercase;
+}
+
+input#placeholder-icon-1,#placeholder-icon-2,#placeholder-icon-3 {
+    background-repeat: no-repeat;
+    text-indent: 20px;
+    margin-bottom: 5px;
+    background-position: 8px 10px;
+    opacity: 0.45;
+}
+
+input#placeholder-icon-1 {
+    background-image: url(../img/icon-user.png);
+}
+
+input#placeholder-icon-2 {
+    background-image: url(../img/icon-email.png);
+}
+
+input#placeholder-icon-3 {
+    background-image: url(../img/icon-phone-anwser.png);
+}
+
+select#placeholder-icon-4,#placeholder-icon-5 {
+    background-repeat: no-repeat;
+    text-indent: 20px;
+    margin-bottom: 5px;
+    background-position: 8px 10px;
+    opacity: 0.45;
+}
+
+select#placeholder-icon-4 {
+    background-image: url(../img/icon-clock.png);
+}
+
+select#placeholder-icon-5 {
+    background-image: url(../img/icon-maps.png);
+}
+
+input.botao-agendar {
+    font-size: 14px;
+    width: 100%;
+    margin: auto 0;
+}
+
+/* Terceira Dobra do site */
+h2.subtitle-dobra3 {
+    font-size: 2em;
+    text-align: left;
+    font-style: italic;
+    margin-bottom: 20px;
+}
+
+img.carros-brancos {
+    margin-top: 110px;
+}
+
+p.texto-conteudo {
+    margin-top: 25px;
+}
+
+/* Quarta Dobra do site */
+section.fundo-painel {
+    background-image: url(../img/imagem-painel-fundo.png); background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+}
+
+div.container-fluid.box-textos {
+    margin-top: 200px;
+    padding-top: 50px;
+}
+
+h3.subtitle-quarta-dobra {
+    color: white;
+    font-style: italic;
+    font-weight: 300;
+}
+
+p.texto-branco {
+    color: white;
+    margin-bottom: 5px;
+    font-weight: 100;
+}
+
+/* Quinta Dobra do site */
+section.quinta-dobra {
+    margin-left: 45px;
+    padding-right: 85px;
+}
+
+div.margens-cards.card-body {
+    padding: 1.25rem 0rem;
+}
+
+h5.card-title.principais {
+    font-style: italic;
+    margin: -10px 0;
+    padding-bottom: 1.15rem;
+}
+
+p.texto-cartao {
+    font-size: 14px;
+    font-weight: 100;
+}
+
+/* Penúltima Dobra do site */
+p.honda-subts {
+    margin-top: -12px;
+    margin-bottom: 24px;
+}
+
+/* Pre-Footer */
+img.botao-maps {
+    height: 30px;
+    margin-top: .85em;
+}
+
+a.botao-branco {
+    background-color: white;
+}
+
+a.botao-branco:hover {
+    background-color: #dc3545;
+}
+
+p.texto-botao {
+    font-size: 0.82em;
+    color: black;
+    text-indent: 12px;
+    margin-bottom: -25px;
+    text-align: left;
+    line-height: 2.5em;
+}
+
+strong.botao-bold {
+    display: block;
+    margin-left: 30px;
+    line-height: 50px;
+}
+
+div.frase-prefoot {
+    margin: 25px 0;
+}
+
+h5.siga-banzai {
+    font-size: 1.65em;
+    font-style: italic;
+    text-indent: -15px;
+}
+
+div.redes-sociais {
+    margin-bottom: -25px;
+}
+
+img.icones {
+    padding-right: 8px;
+    opacity: 1;
+    transition: all .5s ease-out;
+}
+
+img.icones:hover {
+    opacity: 0.45;
+    transition: all .5s ease-out;
+}
+
+/* Footer */
+p.final-txt {
+    font-size: 14px;
+    font-weight: lighter;
+}
+
+img.logo-ibama {
+    margin: -55px 25px 45px 0px;
+}
